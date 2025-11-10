@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I’m Fred Kaloki a curious mind who loves turning ideas into real, working projects. I’m passionate about web development, machine learning, and data science, and I’m always exploring how tech can solve everyday problems.<br><br>I enjoy learning new tools, experimenting with cool tech, and improving how I document and share my work (a skill I’m constantly leveling up 😄).<br><br>When I’m not coding, I’m probably watching anime or scrolling 😂.
+Hey there! I’m Fred Kaloki a curious mind who loves turning ideas into real, working projects. I’m passionate about web development, machine learning, and data science, and I’m always exploring how tech can solve everyday problems.<br><br>I enjoy learning new tools, experimenting with cool tech, and improving how I document and share my work.<br><br>When I’m not coding, I’m probably watching anime or scrolling 😂.
 
 
 ## 🌐 Socials:
