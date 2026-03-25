@@ -1,13 +1,31 @@
-# 💫 About Me:
-Hey there! I’m Fred Kaloki a curious mind who loves turning ideas into real, working projects. I’m passionate about web development, machine learning, and data science, and I’m always exploring how tech can solve everyday problems.<br><br>I enjoy learning new tools, experimenting with cool tech, and improving how I document and share my work.<br><br>When I’m not coding, I’m probably watching anime or scrolling 😂.
+# 👋 Hi, I'm Fred Kaloki
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+I’m a BCom student figuring out data analysis one step at a time.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fredxotic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fredxotic&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fredxotic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I got into data because I believe business decisions should be backed by evidence, not guesswork. So I’m learning the tools that help make sense of messy information; mainly Python, SQL, and Excel, with Tableau and Power BI in progress.
+
+This space is where I learn in public. You’ll find small projects, experiments, practice files, and the occasional mistake I had to fight through before things clicked.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fredxotic&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## What I’m working on
+
+Right now, I’m focused on getting comfortable with:
+- Writing Python for real data problems  
+- Querying and exploring data with SQL  
+- Cleaning and analyzing data in Excel  
+- Turning data into simple visual stories  
+
+## What to expect here
+
+- Projects I’m building as I learn  
+- Rough edges, improvements, and progress over time  
+- Work that reflects where I am right now, not where I wish I was  
+
+---
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fred-kaloki) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:charlesfred285@gmail.com)
+
+*“Start where you are. Use what you have. Do what you can.”*
